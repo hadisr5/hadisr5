@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hadisr5
-- 👀 I’m interested in .Net Core / C# / SQL Server and Azure
-- 🌱 I’m currently learning Redis / docker / mongodb
+- 👀 I’m interested in GO / Kubernetis/ Docker/ Redis/ mongodb
+- 🌱 I’m currently learning .Net Core / C# / SQL Server
 - 💞️ I’m looking to collaborate on Software engineer or backend developer
 - 📫 How to reach me
   -mail : h.rass1991@gmail.com
